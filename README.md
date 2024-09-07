@@ -1,11 +1,11 @@
 #CarolaLedezma
 
-<h1 align="center">Hi 👋, I am a Health Data Scientist (under construction)</h1>
-<h3 align="center">Scientific research assistant, with experience in databases and R, preparing me as a Health Data Scientist</h3>
+<h1 align="center">Hi 👋, I am a Data Engineer (under construction)</h1>
+<h3 align="center">Scientific research assistant, with experience in databases and R</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolal&label=Profile%20views&color=0e75b6&style=flat" alt="carolal" /> </p>
 
-- 🔭 I’m currently **active job search, preferably in the health area**
+- 🔭 I’m currently **active job search**
 
 - 🌱 I’m currently learning **Data Clinic, Scala, Python and I continue with R, POSIT**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m a producer and editor [of the YouTube channel "HotTop en Bíologia"](https://www.youtube.com/@hottopicenbiologia)
 
-- 💬 Ask me about **Markdown, R, POSIT**
+- 💬 Ask me about **SQL,Markdown, R, POSIT**
 
 - 📫 How to reach me **cledezma974@gmail.com**
 
