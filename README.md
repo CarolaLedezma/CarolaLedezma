@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently **active job search**
 
-- 🌱 I’m currently learning **Data Clinic, Scala, Python and I continue with R, POSIT**
+- 🌱 I’m currently learning **Data, RNA, Transcriptomics, Big Data and I continue with R, POSIT**
 
 - 👯 I’m collaborating [in the translation and reproduction of the book R for Health Data Science](https://rpubs.com/Carola)
 
 - 🤝 I’m a producer and editor [of the YouTube channel "HotTop en Bíologia"](https://www.youtube.com/@hottopicenbiologia)
 
-- 💬 Ask me about **SQL,Markdown, R, POSIT**
+- 💬 Ask me about **SQL, Markdown, R, POSIT**
 
 - 📫 How to reach me **cledezma974@gmail.com**
 
